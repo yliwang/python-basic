@@ -18,4 +18,9 @@ Code prototype: StarTriangle.py
 
 Hint: to print something without newline, use end='' parameter for python function print, for example, print('hello', end='')
 
+Quesion 2：Given limit as a positive integer, write a function that return the sum of multiples of 3 and 5 between 0 and limit. Obviously,
+the function takes limit as the only parameter.
+As an example, if limit=20, then it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
+Code prototype: SumOfMultiplesOf3And5.py
+
 
