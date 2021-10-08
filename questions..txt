@@ -18,9 +18,13 @@ Code prototype: StarTriangle.py
 
 Hint: to print something without newline, use end='' parameter for python function print, for example, print('hello', end='')
 
-Quesion 2：Given limit as a positive integer, write a function that return the sum of multiples of 3 and 5 between 0 and limit. Obviously,
+Question 2：Given limit as a positive integer, write a function that return the sum of multiples of 3 and 5 between 0 and limit. Obviously,
 the function takes limit as the only parameter.
 As an example, if limit=20, then it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
 Code prototype: SumOfMultiplesOf3And5.py
 
+Question 3: Given n as a positive integer, write a founction that cycle through every number from 1 to n, and put the number into a list, if the number is divisible by 4, then instead of putting the number itself into list, it puts “Fizz” into it. If the number is divisible by 6, then instead of putting the number itself onto the list, it puts “Buzz” onto it. If the number is divisible by both 4 and 6, then it puts “FizzBuzz” onto it. If the number doesn’t satisfy any of these conditions, simply puts the number itself onto the list. The list will be the only return from the function.
+
+For example: if n = 13, then the list returned from the function looks like: [1, 2, 3, Fizz, 5, Buzz, 7, Fizz, 9, 10, 11, FizzBuzz, 13]
+Code prototype: FizzBuzz.py
 
