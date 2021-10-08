@@ -1,0 +1,21 @@
+Question 1: Given an input in the form of a positive integer n,
+write a function taking the positive integer as the only parameter,
+and printing out a triangle-shaped pattern made of the star character (*). 
+Here n specifies the number of rows in the pattern.
+The number of stars in each row increases by 2 each time.
+For example:
+If n = 3, the output of the function is
+  *
+ ***
+*****
+If n = 4, the output:
+   *
+  ***
+ *****
+*******
+
+Code prototype: StarTriangle.py
+
+Hint: to print something without newline, use end='' parameter for python function print, for example, print('hello', end='')
+
+
