@@ -28,3 +28,7 @@ Question 3: Given n as a positive integer, write a founction that cycle through 
 For example: if n = 13, then the list returned from the function looks like: [1, 2, 3, Fizz, 5, Buzz, 7, Fizz, 9, 10, 11, FizzBuzz, 13]
 Code prototype: FizzBuzz.py
 
+Question 4: Write a function which return the sum of all digits in a positive integer n, this positive integer n is the only parameter of the function. For example, for n = 123, then the function will return 1+2+3=6
+Code prototype: SumOfDigits.py
+
+
