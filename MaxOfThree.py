@@ -1,5 +1,5 @@
 def MaxOfThree( x, y, z ):
-    return max( max(x, y ), z )
+    
 
 
 
