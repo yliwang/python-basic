@@ -31,4 +31,10 @@ Code prototype: FizzBuzz.py
 Question 4: Write a function which return the sum of all digits in a positive integer n, this positive integer n is the only parameter of the function. For example, for n = 123, then the function will return 1+2+3=6
 Code prototype: SumOfDigits.py
 
+Question 5: Write a function wich takes a string as parameter, and sum all numbers in the string and then return the sum. The numbers in the string is separated by space(' ').
+Hint: one can use split function provided by the str class to split all sub-stirngs separated by ' '. and then use isnumeric which is also a str provided method to check if a sub-string is a number or not.
+Code prototype: SumOfNumbersInString.py
+
+
+
 
