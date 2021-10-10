@@ -35,6 +35,12 @@ Question 5: Write a function wich takes a string as parameter, and sum all numbe
 Hint: one can use split function provided by the str class to split all sub-stirngs separated by ' '. and then use isnumeric which is also a str provided method to check if a sub-string is a number or not.
 Code prototype: SumOfNumbersInString.py
 
+Question 6: Write a function which takes 3 numbers as input, and return the maximum of the three numbers.
+Hint: one can use python function max to get the bigger one from two numbers.
+Code prototype: MaxOfThree.py
+
+
+
 
 
 
