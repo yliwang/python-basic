@@ -1,13 +1,5 @@
 def SortList( lst, order ):
-    l = lst.copy()
-    if order == 'asc':
-        l.sort()
-    elif order == 'desc':
-        l.sort( reverse=True)
-    else:
-        pass
-
-    return l
+   
 
 
 if __name__=='__main__':
