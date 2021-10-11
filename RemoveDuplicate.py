@@ -1,16 +1,5 @@
 def RemoveDuplicate( l ):
-    prev = None
-    r = []
-    for x in l:
-        if prev == None:
-            prev = x
-            r.append( x )
-        elif prev != x:
-            r.append( x )
-            prev = x
-
-    return r
-
+  
 
 
 if __name__=='__main__':
