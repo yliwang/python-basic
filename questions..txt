@@ -60,8 +60,8 @@ Question 11: Write a Python function which takes a list as parameter, remove dup
 Note: only consecutive duplicative elements are removed. for example, [0., 0., 1., 0.] will result in [0., 1., 0.], not [0. 1.] 
 Code prototype: RemoveDuplicate.py
 
-Question 12: Write a python function, which takes two positive integer parameters, m, and n, m represents the number of heads, and n the number of legs. these heads come from chickens and pigs, so do the legs. The function determines how many chickens and how many pigs there, and return them as a tuple. for example, if We have a count of 35 heads and
-94 legs among the chickens and pigs, we will get (23, 12), i.e., 23 chickens, and 12 pigs as return value.
+Question 12: Write a python function, which takes two positive integer parameters, m, and n, m represents the number of heads, and n the number of legs. these heads come from chickens and pigs, so do the legs. The function determines how many chickens and how many pigs there, and return them as a tuple. for example, 
+if We have a count of 35 heads and 94 legs among the chickens and pigs, we will get (23, 12), i.e., 23 chickens, and 12 pigs as return value.
 Code prototype: CountHeadsAndLegs.py
 
 
