@@ -71,6 +71,9 @@ Question 14: Write a python function, which takes a positive integer as paramete
 Hint: leap year can be evenly divided by 4, but if the year is also evenly divided by 100, then for the year to be a leap year, it should also be evenly divided by 400. 
 Code prototype: LeapYear.py
 
+Question 15: Write a python function, which takes two numbers as parameters a, b, and returned the swap numbers. for example, if a = 3, b = 5., the function returns 5., 3
+Code prototype: swap.py
+
 
 
 
