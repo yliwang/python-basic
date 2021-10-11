@@ -56,6 +56,11 @@ Code prototype: ReverDigits.py
 Question 10: Write a function in Python, which accepts two sorted lists of numbers, merge them into one list. In the merged list, the numbers are still in sorted order. The function has the merged list as its return value.
 Code prototype: MergeSorted.py
 
+Question 11: Write a Python function which takes a list as parameter, remove duplicate consecutive elements from the list and leave only one if they are duplicates, the resulting list is returned by the function.
+Note: only consecutive duplicative elements are removed. for example, [0., 0., 1., 0.] will result in [0., 1., 0.], not [0. 1.] 
+Code prototype: RemoveDuplicated.py
+
+
 
 
 
