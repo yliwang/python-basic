@@ -50,6 +50,11 @@ If the second parameter is "asc", then the function should return a list with th
 The restriction of thie question is, after sorting, the original list should not be modified.
 Code prototype: SortList.py
 
+Question 9: Write a function which takes a positive integer as input, and return the number with all digits of the original number reversed. For example, if the integer number is 123, the return integer number is 321, if the integer number is 100, the returned is 1.
+Code prototype: ReverDigits.py
+
+
+
 
 
 
