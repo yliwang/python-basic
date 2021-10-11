@@ -53,7 +53,10 @@ Code prototype: SortList.py
 Question 9: Write a function which takes a positive integer as input, and return the number with all digits of the original number reversed. For example, if the integer number is 123, the return integer number is 321, if the integer number is 100, the returned is 1.
 Code prototype: ReverDigits.py
 
-Question 10: 
+Question 10: Write a function in Python, which accepts two sorted lists of numbers, merge them into one list. In the merged list, the numbers are still in sorted order. The function has the merged list as its return value.
+Code prototype: MergeSorted.py
+
+
 
 
 
