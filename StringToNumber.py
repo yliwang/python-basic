@@ -1,8 +1,8 @@
-def Swap( a, b ):
+def StringToNumber(s):
 
 
 
 
 if __name__=='__main__':
-    x, y = Swap( 3., 5 )
-    print( x, y )
+    x = StringToNumber( '12345.123' )
+    print( x )
