@@ -1,3 +1,6 @@
+Question 0: Write a function which takes a string as the only parameter, this string contains an integer number or a float number, the function return the number contained in the parameter. For example, if the string is '123.456', the function will return 123.456, as another example, if the stirng contains '12345', the function will take 12345 as return value.
+Code prototype: StringToNumber.py
+
 Question 1: Given an input in the form of a positive integer n,
 write a function taking the positive integer as the only parameter,
 and printing out a triangle-shaped pattern made of the star character (*). 
