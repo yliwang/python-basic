@@ -1,3 +1,6 @@
+Question -1: Write a function which accept a list, the list contains numbers, or other sub-lists, in turn, these sub-lists contain numbers, the function will flatten the list, which means, the numbers in the list, and those in the sub-lists will be put into a bigger list, and returned by the function. For example, list a=[1, [2], [3,4], [5, 6, 7], 8], it contains numbers 1, and 8, and sub-lists [2], [3,4], [5, 6, 7], which in turn contain numbers, the resulting list after the processing is [1, 2, 3, 4, 5, 6, 7, 8]
+Code prototype: FlattenList.py
+
 Question 0: Write a function which takes a string as the only parameter, this string contains an integer number or a float number, the function return the number contained in the parameter. For example, if the string is '123.456', the function will return 123.456, as another example, if the stirng contains '12345', the function will take 12345 as return value.
 Code prototype: StringToNumber.py
 
