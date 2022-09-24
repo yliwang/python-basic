@@ -1,3 +1,6 @@
+Question -3: in Python, Digital images are stored in memory as numpy arrays. In the little project, we ignore numpy array, and temporarily, we store a 2d matrix in list, for example, [[1,2,3], [4,5,6]] denotes a 2x3 matrix. the purpose of this project is to write a function which accept such a matrix, and returns its transpose. Take the same, example, the transpose is [[1,4], [2,5], [3,6]]
+Code prototype: MatTranspose.py
+
 Question -2: Write a function, which takes a list as input, the list contains numbers and numbers in strings, for example, [1, '234', '456', 670., '91000'], in this example, the first element 1 is a number, while the second, the third, and the fifth '234', '456', '91000', are numbers in strings. the function returns the sum of all these numbers. i.e., it will extract numbers in strings , and then add them to other numbers. For the above example, the sum is 92361.
 Code prototype: SumOfItems.py
 
