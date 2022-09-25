@@ -1,3 +1,6 @@
+Question -4: In this small project, we will sort a mixed list, by saying mixed list, we mean, the list contains not only basic items, for examples, numbers, but also other lists. To make thing simple, we assume, the lists embedding in this list contain only basic items. For example, [1, [13,12], [6,5,7,8,9]] is such a list. For basic items, the order is based on their values, for embedded lists, the order is based on the minimum value item. For this purpose, the embedded lists should also be sorted. The resulting list for the above example, is [1, [5,6,7,8,9], [12,13]]. Write a function which accomplish this, and the function requires another function for list sorting.
+Code Prototype: SortEmbedded.py
+
 Question -3: in Python, Digital images are stored in memory as numpy arrays. In the little project, we ignore numpy array, and temporarily, we store a 2d matrix in list, for example, [[1,2,3], [4,5,6]] denotes a 2x3 matrix. the purpose of this project is to write a function which accept such a matrix, and returns its transpose. Take the same, example, the transpose is [[1,4], [2,5], [3,6]]
 Code prototype: MatTranspose.py
 
