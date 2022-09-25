@@ -6,6 +6,6 @@ def SortEmbedded( l ):
 
 
 if __name__=='__main__':
-    r = SortEmbedded( [1, [13, 12], [6,7,8,9]] )
+    r = SortEmbedded( [1, [13, 12], [6,5,7,8,9]] )
     print( r )
-    assert r == [1, [6,7,8,9], [12, 13]]
+    assert r == [1, [5,6,7,8,9], [12, 13]]
