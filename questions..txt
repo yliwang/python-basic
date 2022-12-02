@@ -79,7 +79,7 @@ Question 12: Write a python function, which takes two positive integer parameter
 if We have a count of 35 heads and 94 legs among the chickens and pigs, we will get (23, 12), i.e., 23 chickens, and 12 pigs as return value.
 Code prototype: CountHeadsAndLegs.py
 
-Question 13: Write a python function, which takes two parameters, the first parameter A is a list, and the second k is an integer. left rotate the list A, and return the resulting list. If k is positive, for example, 1, list is left shifted by 1, [ 1, 2, 3] will be resulting to [3, 1, 2]. if k is negative then right shift is performed. if k is 0 no shift, and the original list is returned.
+Question 13: Write a python function, which takes two parameters, the first parameter A is a list, and the second k is an integer. left rotate the list A, and return the resulting list. If k is positive, for example, 1, list is left shifted by 1, [ 1, 2, 3] will be resulting to [2, 3, 1]. As another example, k is 2, then list is left shifted by 2, [1,2,3] will be resulting to [3, 1, 2]. if k is negative then right shift is performed. if k is 0 no shift, and the original list is returned.
 Code prototype: LeftShift.py
 
 Question 14: Write a python function, which takes a positive integer as parameter. this parameter represents year ( for example, 2021, and etc ), the function return True if the year is a leap year, otherwise not.
